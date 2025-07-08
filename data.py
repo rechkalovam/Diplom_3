@@ -1,0 +1,1 @@
+EMAIL_FOR_RESET_PASSWORD = 'qwerty@example.com'
