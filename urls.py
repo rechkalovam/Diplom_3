@@ -1,0 +1,5 @@
+MAIN_PAGE_URL = 'https://stellarburgers.nomoreparties.site'
+USERS_API_URL = '/auth'
+LOGIN_PAGE_URL = 'https://stellarburgers.nomoreparties.site/login'
+RESET_PASSWORT_PAGE = 'https://stellarburgers.nomoreparties.site/forgot-password'
+ORDERS_LIST_PAGE = 'https://stellarburgers.nomoreparties.site/feed'

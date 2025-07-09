@@ -1,0 +1,3 @@
+Visible: True, Enabled: True, Location: {'x': 1046, 'y': 408}, Size: {'height': 64.0, 'width': 214.3999938964844}
+Visible: True, Enabled: True, Location: {'x': 1126, 'y': 33}, Size: {'height': 21.5, 'width': 134.39999389648438}
+Visible: True, Enabled: True, Location: {'x': 20, 'y': 292}, Size: {'height': 30.0, 'width': 216.0}
